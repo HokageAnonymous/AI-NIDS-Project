@@ -29,7 +29,7 @@ using a Random Forest classifier and provides real-time results through an inter
 ---
 
 ## Demo Video
-🔗 Demo Link: https://your-youtube-demo-link-here
+🔗 Demo Link: [AI-Based Network Intrusion Detection System Demo](https://youtu.be/aacMqo9MkbY)
 
 ---
 
